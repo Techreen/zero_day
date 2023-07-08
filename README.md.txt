@@ -1,4 +1,1 @@
-<html>
-	<body
-	</body>
-</html>
+[1]: http://example.com/ "Title"
